@@ -21,6 +21,7 @@
 
 
 ## Goal of this website : help everyone to learn Emerging Embedded System TECHNOLOGY 
-Embedded system has its application in day to day real time applications, Space Robotics , and so and so 
-*** EMBEDDED SYSTEM FOR EVERYONE ***
-*** This website focussed for Embedded system Software developer ***
+Embedded system has its application in day to day real time applications, Space Robotics , and so and so.
+<p><b>EMBEDDED SYSTEM FOR EVERYONE!<b></p>
+
+***This website focussed for Embedded system Software developer***
